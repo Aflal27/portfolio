@@ -4,6 +4,7 @@ import linkedin from "../img/linkedin.png";
 import instagram from "../img/instagram.png";
 import Vector1 from "../img/Vector1.png";
 import Vector2 from "../img/Vector2.png";
+import aflal from "../img/aflal.png";
 import boy from "../img/boy.png";
 import thumbup from "../img/thumbup.png";
 import crown from "../img/crown.png";
@@ -63,7 +64,7 @@ export default function Intro() {
           />
           <img
             className=" w-[600px] h-[550px] -ml-[20px]  sm:-ml-[70px]  top-[50px] sm:top-0 absolute z-10 sm:scale-125  object-contain"
-            src={"../../public/images/aflal.png"}
+            src={aflal}
             alt="img"
           />
           <motion.img
